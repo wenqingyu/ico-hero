@@ -1,0 +1,19 @@
+{
+  "name": "ico-hero",
+  "version": "1.0.0",
+  "description": "Automative bot for ICO investment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/ico-hero.git"
+  },
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/ico-hero/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/ico-hero#readme"
+}
